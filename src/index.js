@@ -68,7 +68,7 @@ export default class MasonryInfiniteScroller extends Component {
   }
 
   componentWillUnmount() {
-    this.state.instance.resize(false);
+    this.state && this.state.instance.resize(false);
   }
 
   render() {
