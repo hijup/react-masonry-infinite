@@ -1,6 +1,6 @@
 {
-  "name": "react-masonry-infinite",
-  "version": "1.1.0",
+  "name": "hijup-react-masonry-infinite",
+  "version": "1.1.1",
   "description": "React component for masonry infinite grid. Based on Bricks.js, React Infinite Scroller and React Masonry Layout.",
   "main": "./lib/index",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skoob13/react-masonry-infinite.git"
+    "url": "git+https://github.com/hijup/react-masonry-infinite.git"
   },
   "keywords": [
     "react",
@@ -24,7 +24,7 @@
   "author": "Georgiy Tarasov <g@anot.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skoob13/react-masonry-infinite/issues"
+    "url": "https://github.com/hijup/react-masonry-infinite/issues"
   },
   "homepage": "https://skoob13.github.io/react-masonry-infinite",
   "dependencies": {
