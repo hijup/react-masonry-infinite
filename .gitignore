@@ -38,3 +38,6 @@ jspm_packages
 
 #lib
 lib/
+
+# IDEs and editors
+*.sublime-workspace 
